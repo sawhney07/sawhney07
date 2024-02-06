@@ -26,7 +26,9 @@ I'm a software engineering student who is passionate about creating web applicat
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Extras</h2>
+<h2>📺 📈 GitHub stats</h2>
+
+![sawhney07 github stats](https://github-readme-stats.vercel.app/api?username=sawhney07&show_icons=true&hide_border=true)
 
 
 
