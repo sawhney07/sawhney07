@@ -1,8 +1,11 @@
 <h1><b>Hi, I'm Armaan! <br/> </b></hi> 
 
-<h3><b><a href="https://github.com/sawhney07">Project List </a> <br/> 
+<h3>
+I'm a software engineering student who is passionate about creating web applications, learning new technologies, and contributing to open source projects.</br> I enjoy solving problems, collaborating with others, and sharing my knowledge.</h3>
+<h2>
+<b><a href="https://github.com/sawhney07">Project List </a> <br/> 
 <a href="https://www.linkedin.com/">LinkedIn </a>  <br/>
-<a href="https://www.leetcode.com/">leetCode </a> </b></h3>
+<a href="https://www.leetcode.com/">leetCode </a> </b></h2>
 
 
 <h2>👨‍💻 <b>Software Development Projects: </b></h2>
