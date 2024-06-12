@@ -1,34 +1,77 @@
-<h1><b>Hi, I'm Armaan! <br/> </b></hi> 
 
-<h3>
-I'm a software engineering student who is passionate about creating web applications, learning new technologies, and contributing to open source projects.</br> I enjoy solving problems, collaborating with others, and sharing my knowledge.</h3>
-<h2>
-<b><a href="https://github.com/sawhney07">Project List </a> <br/> 
-<a href="https://www.linkedin.com/">LinkedIn </a>  <br/>
-<a href="https://www.leetcode.com/">leetCode </a> </b></h2>
+# 👋 Hi, I'm Armaan!
+
+Welcome to my GitHub! I'm a third-year Computer Science major at The University of British Columbia, specializing in Artificial Intelligence and Machine Learning. My passion lies in harnessing the power of programming to develop intelligent systems to contribute to fixing real-world problems. This repository is a showcase of my technical journey, highlighting my skills in software development and my exploration of AI-driven technologies. Dive in to see how I blend code, creativity, and data to solve problems and push the boundaries of what good lines of code can achieve.
+
+## 🚀 Technical Skills
+
+### Programming Languages
+- **Proficient:** Python, JavaScript/TypeScript, Java, C/C++
+- **Familiar:** SQL (MySQL, Oracle), R, Bash, Assembly, LaTeX
+
+### Web Development
+- **Frontend:** HTML5, CSS, React
+- **Backend:** Node.js, Docker
+
+### Tools & Environments
+- **Development:** VS Code, Eclipse, IntelliJ, GitHub
+- **Design & Editing:** Adobe Photoshop/After Effects/Premiere Pro, Sony Vegas Pro
+- **Data Analysis:** R-Studio
+
+### Testing Frameworks
+- JUnit, GDB, Mocha, Chai
+
+## 🌟 Featured Projects
+
+### [InsightUBC Data Engine](https://github.com/your-github-username/insightubc-data-engine)
+**Technologies:** JavaScript, TypeScript, JSON, Mocha, Node.js, yarn  
+**Role:** Project Lead  
+*January 2024 - April 2024*
+
+- Built a powerful data query engine using TypeScript to parse and visualize UBC's course data.
+- Developed a user-friendly UI with JFrame for seamless data interaction.
+- Ensured robust test coverage and reliability using Mocha and Chai for both white-box and black-box testing.
+- Led a team in an agile environment, using Git for version control and managing weekly scrums.
+
+### [Basketball League Database](https://github.com/your-github-username/basketball-league-db)
+**Technologies:** Java, JFrame, MySQL, JDBC, Oracle  
+**Role:** Project Lead  
+*October 2023 - December 2023*
+
+- Directed a team to create a full-stack application for managing basketball league data.
+- Focused on data security by implementing stringent input sanitization and SQL injection prevention.
+- Connected and queried databases in real-time using JDBC and Oracle, ensuring data integrity and optimal performance.
+- Applied database normalization techniques to enhance query efficiency.
+
+### [Wall Engine](https://github.com/your-github-username/wall-engine)
+**Technologies:** Python, CustomTkinter, OpenWeather API  
+*February 2024 – Present*
+
+- Designed and developed an interactive screensaver application using Python and CustomTkinter.
+- Added dynamic, infinite video playback for an engaging user experience.
+- Integrated real-time weather updates and clock display with the OpenWeather API.
+
+### Technical work Experience
+- **[Freelance Web Design](https://github.com/your-github-username/freelance-web-design):** Created HTML webpages and logos for a startup company.
+- **[Graph Theory Research](https://github.com/your-github-username/graph-theory-research):** Implemented and analysed fault-tolerant graph structures and dynamic algorithms as part of research at I.I.T Delhi under Prof. Keerti Choudhary.
+
+## 🛠️ Additional Contributions
+
+Explore my [GitHub repositories](https://github.com/sawhney07?tab=repositories) for a deeper dive into my other projects, including:
+- TBD
+
+## 📫 Connect with Me
+
+- **Email:** sawhney7@student.ubc.ca
+- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/sawhney07/)
+- **GitHub:** [github.com/your-github-username](https://github.com/sawhney07)
+
+---
+
+*Thanks for visiting my GitHub profile! I'm always excited to connect with fellow developers and explore new opportunities.*
 
 
-<h2>👨‍💻 <b>Software Development Projects: </b></h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 📈 GitHub stats</h2>
-
-![sawhney07 github stats](https://github-readme-stats.vercel.app/api?username=sawhney07&show_icons=true&hide_border=true)
 
 
 
@@ -46,4 +89,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+<h2>📺 📈 GitHub stats</h2>
+
+![sawhney07 github stats](https://github-readme-stats.vercel.app/api?username=sawhney07&show_icons=true&hide_border=true)
 -->
