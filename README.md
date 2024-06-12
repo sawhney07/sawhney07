@@ -45,6 +45,7 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 
 ### [Portfolio Website](TBD)
 **Technologies:** HTML, JavaScript, React, Tailwind CSS, GitHub Pages
+
 *June 2024 – Present*
 
 - Developed a responsive and visually appealing portfolio website using React and Tailwind CSS.
