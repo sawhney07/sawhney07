@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 ### Tools & Environments
 - **Development:** VS Code, Eclipse, IntelliJ, GitHub
 - **Design & Editing:** Adobe Photoshop/After Effects/Premiere Pro, Sony Vegas Pro
-- **Data Analysis:** R-Studio
+- **Data Analysis:** R-Studio, Python libraries (skLearn, PyTorch)
 
 ### Testing Frameworks
 - JUnit, GDB, Mocha, Chai
