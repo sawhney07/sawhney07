@@ -52,13 +52,13 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 - Integrated real-time weather updates and clock display with the OpenWeather API.
 
 ### [Portfolio Website](TBD)
-**Technologies:** HTML, JavaScript, React, Tailwind CSS  
+**Technologies:** HTML, JavaScript, React, Tailwind CSS, GitHub Pages
 *June 2024 – Present*
 
 - Developed a responsive and visually appealing portfolio website using React and Tailwind CSS.
 - Showcases my skills, projects, and professional journey with an intuitive and engaging user interface.
 - Implemented smooth navigation and dynamic content loading to enhance user experience.
-- Utilized Tailwind CSS for efficient and customizable styling, ensuring a modern and cohesive design.
+- Utilized Tailwind CSS for efficient and customizable styling, and deployed the website using GitHub Pages.
 
 ### Technical work Experience
 - **[Freelance Web Design](https://github.com/your-github-username/freelance-web-design):** Created HTML webpages and logos for a startup company.
