@@ -63,8 +63,8 @@ Explore my [GitHub repositories](https://github.com/sawhney07?tab=repositories) 
 ## 📫 Connect with Me
 
 - **Email:** sawhney7@student.ubc.ca
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/sawhney07/)
-- **GitHub:** [github.com/your-github-username](https://github.com/sawhney07)
+- **LinkedIn:** [in/sawhney07](https://www.linkedin.com/in/sawhney07/)
+- **GitHub:** [sawhney07](https://github.com/sawhney07)
 
 ---
 
