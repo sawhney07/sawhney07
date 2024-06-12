@@ -51,6 +51,15 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 - Added dynamic, infinite video playback for an engaging user experience.
 - Integrated real-time weather updates and clock display with the OpenWeather API.
 
+### [Portfolio Website](TBD)
+**Technologies:** HTML, JavaScript, React, Tailwind CSS  
+*June 2024 – Present*
+
+- Developed a responsive and visually appealing portfolio website using React and Tailwind CSS.
+- Showcases my skills, projects, and professional journey with an intuitive and engaging user interface.
+- Implemented smooth navigation and dynamic content loading to enhance user experience.
+- Utilized Tailwind CSS for efficient and customizable styling, ensuring a modern and cohesive design.
+
 ### Technical work Experience
 - **[Freelance Web Design](https://github.com/your-github-username/freelance-web-design):** Created HTML webpages and logos for a startup company.
 - **[Graph Theory Research](https://github.com/your-github-username/graph-theory-research):** Implemented and analysed fault-tolerant graph structures and dynamic algorithms as part of research at I.I.T Delhi under Prof. Keerti Choudhary.
@@ -64,7 +73,6 @@ Explore my [GitHub repositories](https://github.com/sawhney07?tab=repositories) 
 
 - **Email:** sawhney7@student.ubc.ca
 - **LinkedIn:** [in/sawhney07](https://www.linkedin.com/in/sawhney07/)
-- **GitHub:** [sawhney07](https://github.com/sawhney07)
 
 ---
 
