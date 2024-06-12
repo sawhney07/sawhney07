@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 - **Familiar:** SQL (MySQL, Oracle), R, Bash, Assembly, LaTeX
 
 ### Web Development
-- **Frontend:** HTML5, CSS3, React
+- **Frontend:** HTML5, CSS3, React, Tailwind
 - **Backend:** Node.js, Docker
 
 ### Tools & Environments
