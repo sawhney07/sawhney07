@@ -43,14 +43,6 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 - Connected and queried databases in real-time using JDBC and Oracle, ensuring data integrity and optimal performance.
 - Applied database normalization techniques to enhance query efficiency.
 
-### [Wall Engine](https://github.com/your-github-username/wall-engine)
-**Technologies:** Python, CustomTkinter, OpenWeather API  
-*February 2024 – Present*
-
-- Designed and developed an interactive screensaver application using Python and CustomTkinter.
-- Added dynamic, infinite video playback for an engaging user experience.
-- Integrated real-time weather updates and clock display with the OpenWeather API.
-
 ### [Portfolio Website](TBD)
 **Technologies:** HTML, JavaScript, React, Tailwind CSS, GitHub Pages
 *June 2024 – Present*
@@ -59,6 +51,15 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 - Showcases my skills, projects, and professional journey with an intuitive and engaging user interface.
 - Implemented smooth navigation and dynamic content loading to enhance user experience.
 - Utilized Tailwind CSS for efficient and customizable styling, and deployed the website using GitHub Pages.
+
+### [Wall Engine](https://github.com/your-github-username/wall-engine)
+**Technologies:** Python, CustomTkinter, OpenWeather API  
+*February 2024 – Present*
+
+- Designed and developed an interactive screensaver application using Python and CustomTkinter.
+- Added dynamic, infinite video playback for an engaging user experience.
+- Integrated real-time weather updates and clock display with the OpenWeather API.
+
 
 ### Technical work Experience
 - **[Freelance Web Design](https://github.com/your-github-username/freelance-web-design):** Created HTML webpages and logos for a startup company.
