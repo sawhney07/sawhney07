@@ -84,7 +84,7 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 - Implemented sytling using CSS
 - Implemented functionality and cookie caching to store list items using JavaScript.
 
-### Technical work Experience
+## Technical work Experience
 - **[Freelance Web Design](https://github.com/your-github-username/freelance-web-design):** Created HTML webpages and logos for a startup company.
 - **[Graph Theory Research](https://github.com/your-github-username/graph-theory-research):** Implemented and analysed fault-tolerant graph structures and dynamic algorithms as part of research at I.I.T Delhi under Prof. Keerti Choudhary.
 
