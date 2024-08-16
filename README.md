@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 ### Testing Frameworks
 - JUnit, GDB, Mocha, Chai
 
-## 🌟 Featured Projects
+## 🌟 Academic Projects
 
 ### [InsightUBC Data Engine](https://github.com/your-github-username/insightubc-data-engine)
 **Technologies:** JavaScript, TypeScript, JSON, Mocha, Node.js, yarn  
@@ -43,6 +43,8 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 - Connected and queried databases in real-time using JDBC and Oracle, ensuring data integrity and optimal performance.
 - Applied database normalization techniques to enhance query efficiency.
 
+## 🌟 Personal Projects
+
 ### [Portfolio Website](TBD)
 **Technologies:** HTML, JavaScript, React, Tailwind CSS, GitHub Pages   
 *June 2024 – Present*
@@ -60,6 +62,27 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 - Added dynamic, infinite video playback for an engaging user experience.
 - Integrated real-time weather updates and clock display with the OpenWeather API.
 
+### [Image Search Engine](https://github.com/sawhney07/image_search_engine_JS)
+**Technologies:** JavaScript, HTML, CSS, Unsplash API
+*March 2024*
+
+- Designed and developed a search engine for images using the Unsplash API.
+- Developed the website using HTML and JavaScript, along with CSS styling.
+
+### [Iphone styled Calculator](https://github.com/sawhney07/iphone_calculator_python)
+**Technologies:** Python
+*May 2024*
+
+- Designed and developed a python calculator app.
+- Implemented the IPhone calculator style and functionality.
+
+### [To-Do List](https://github.com/sawhney07/todo_list_css)
+**Technologies:** JavaScript, HTML5, CSS
+*May 2024*
+
+- Designed and developed a website for a To-do List application
+- Implemented sytling using CSS
+- Implemented functionality and cookie caching to store list items using JavaScript.
 
 ### Technical work Experience
 - **[Freelance Web Design](https://github.com/your-github-username/freelance-web-design):** Created HTML webpages and logos for a startup company.
