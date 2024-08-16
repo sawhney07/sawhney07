@@ -45,7 +45,7 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 
 ## 🌟 Personal Projects
 
-### [Portfolio Website](TBD)
+### [Portfolio Website](https://github.com/sawhney07/portfolio-v1)
 **Technologies:** HTML, JavaScript, React, Tailwind CSS, GitHub Pages   
 *June 2024 – Present*
 
@@ -54,7 +54,7 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 - Implemented smooth navigation and dynamic content loading to enhance user experience.
 - Utilized Tailwind CSS for efficient and customizable styling, and deployed the website using GitHub Pages.
 
-### [Wall Engine](https://github.com/your-github-username/wall-engine)
+### [Wall Engine](https://github.com/sawhney07/wallengine_v1)
 **Technologies:** Python, CustomTkinter, OpenWeather API  
 *February 2024 – Present*
 
@@ -83,6 +83,13 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 - Designed and developed a website for a To-do List application
 - Implemented sytling using CSS
 - Implemented functionality and cookie caching to store list items using JavaScript.
+
+### [Table Pong](https://github.com/sawhney07/tablePong)
+**Technologies:** Python
+*May 2024*
+
+- Designed and developed a 1v1 table pong game using Python
+- Implemented functionality and score-tracking using Pygame.
 
 ## Technical work Experience
 - **[Freelance Web Design](https://github.com/your-github-username/freelance-web-design):** Created HTML webpages and logos for a startup company.
