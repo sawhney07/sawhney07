@@ -28,17 +28,18 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 **Role:** Project Lead  
 *January 2024 - April 2024*
 
-- Built a powerful data query engine using TypeScript to parse and visualize UBC's course data.
-- Developed a user-friendly UI with JFrame for seamless data interaction.
-- Ensured robust test coverage and reliability using Mocha and Chai for both white-box and black-box testing.
-- Led a team in an agile environment, using Git for version control and managing weekly scrums.
+- Developed a RESTful API for a data query engine using TypeScript and Express that parses JSON course data.
+- Created a front-end UI using React and CSS3 for data visualization through charts for course insights.
+- Integrated white-box and black-box testing to ensure test accuracy and edge-case mutant detection using Mocha and Chai libraries.
+- Collaborated with teammates using Git to document changes and attended weekly scrum meetings for continuous integration.
+
 
 ### [Basketball League Database](https://github.com/your-github-username/basketball-league-db)
 **Technologies:** Java, JFrame, MySQL, JDBC, Oracle  
 **Role:** Project Lead  
 *October 2023 - December 2023*
 
-- Directed a team to create a full-stack application for managing basketball league data.
+- Directed a team to create a full-stack application using Java and JFrame for managing basketball league data.
 - Focused on data security by implementing stringent input sanitization and SQL injection prevention.
 - Connected and queried databases in real-time using JDBC and Oracle, ensuring data integrity and optimal performance.
 - Applied database normalization techniques to enhance query efficiency.
@@ -47,37 +48,61 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 
 ### [Portfolio Website](https://github.com/sawhney07/portfolio-v1)
 **Technologies:** HTML, JavaScript, React, Tailwind CSS, GitHub Pages   
-*June 2024 – Present*
+*Aug 2024 – Present*
 
 - Developed a responsive and visually appealing portfolio website using React and Tailwind CSS.
 - Showcases my skills, projects, and professional journey with an intuitive and engaging user interface.
 - Implemented smooth navigation and dynamic content loading to enhance user experience.
 - Utilized Tailwind CSS for efficient and customizable styling, and deployed the website using GitHub Pages.
 
-### [Wall Engine](https://github.com/sawhney07/wallengine_v1)
-**Technologies:** Python, CustomTkinter, OpenWeather API  
-*February 2024 – Present*
+### [WeatherAPI App](https://github.com/sawhney07/weather-API-JS)			
+**Technologies:** JavaScript, React, CSS, OpenWeatherAPI
 
-- Designed and developed an interactive screensaver application using Python and CustomTkinter.
-- Added dynamic, infinite video playback for an engaging user experience.
-- Integrated real-time weather updates and clock display with the OpenWeather API.
+*Sept 2024*
+
+- Created a weather app that lets users search for weather data by city, displaying temperature, humidity, wind speed, and weather conditions.
+- Integrated OpenWeatherAPI to provide real-time weather details with dynamic icons/images for conditions like rain or clouds.
+- Built with React and Vite for a fast & responsive modern-looking UI, ensuring smooth performance across different devices.
+
+### [QR Code Generator](https://github.com/sawhney07/qr-code-gen)			
+**Technologies:** TypeScript, React, CSS, qrcode.react
+
+*Aug 2024*
+
+- Developed a QR code generator that allows users to create QR codes for URLs, text, and other data types.
+- Utilized React.js with TypeScript for dynamic functionality and qrcode.react library for efficient QR code generation.
+
+
+### [Wall Engine](https://github.com/sawhney07/wallengine_v1)
+**Technologies:** Python, CustomTkinter, OpenWeather API
+
+*Feb 2024*
+
+- Developed an interactive screensaver with infinite graphical video playback in full-screen mode using CustomTkinter.
+- Integrated real-time clock, date, and live weather information from OpenWeatherAPI to enhance user experience.
+
 
 ### [Image Search Engine](https://github.com/sawhney07/image_search_engine_JS)
 **Technologies:** JavaScript, HTML, CSS, Unsplash API
-*March 2024*
 
-- Designed and developed a search engine for images using the Unsplash API.
-- Developed the website using HTML and JavaScript, along with CSS styling.
+*Jul 2024*
+
+- Designed and built an image search engine that retrieves images based on user queries using the Unsplash API.
+- Developed a responsive, user-friendly interface with HTML, JavaScript, and CSS for seamless functionality and intuitive design.
+
 
 ### [Iphone styled Calculator](https://github.com/sawhney07/iphone_calculator_python)
 **Technologies:** Python
-*May 2024*
 
-- Designed and developed a python calculator app.
-- Implemented the IPhone calculator style and functionality.
+*Jul 2024*
+
+- Designed and developed a Python calculator app replicating the style and functionality of the iPhone calculator.
+- Utilized CustomTkinter to create a visually appealing, responsive interface for enhanced user interaction.
+
 
 ### [To-Do List](https://github.com/sawhney07/todo_list_css)
 **Technologies:** JavaScript, HTML5, CSS
+
 *May 2024*
 
 - Designed and developed a website for a To-do List application
@@ -86,6 +111,7 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 
 ### [Table Pong](https://github.com/sawhney07/tablePong)
 **Technologies:** Python
+
 *May 2024*
 
 - Designed and developed a 1v1 table pong game using Python
