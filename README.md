@@ -11,10 +11,10 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 
 ### Web Development
 - **Frontend:** HTML5, CSS3, React, Tailwind
-- **Backend:** Node.js, Docker
+- **Backend:** Node.js, Docker, Jenkins, Kubernetes
 
 ### Tools & Environments
-- **Development:** VS Code, Eclipse, IntelliJ, GitHub
+- **Development:** VS Code, Eclipse, IntelliJ, GitHub, AWS, Azure
 - **Design & Editing:** Adobe Photoshop/After Effects/Premiere Pro, Sony Vegas Pro
 - **Data Analysis:** R-Studio, Python libraries (skLearn, PyTorch)
 
@@ -43,6 +43,15 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 - Focused on data security by implementing stringent input sanitization and SQL injection prevention.
 - Connected and queried databases in real-time using JDBC and Oracle, ensuring data integrity and optimal performance.
 - Applied database normalization techniques to enhance query efficiency.
+
+### [Email Spam Classifier with Naïve Bayes](https://github.com/your-github-username/basketball-league-db)
+**Technologies:** Python, Naïve Bayes, scikit-learn
+
+*February 2024 – April 2024*
+
+- Implemented a Naïve Bayes classifier from scratch for text classification using a dataset with features such as email content indicators.
+- Computed prior and conditional probabilities for classifying email as "spam" or "not spam" based on feature presence.
+- Evaluated the model’s performance on the newsgroups dataset, achieving optimal results through hyper-parameter tuning.
 
 ## 🌟 Personal Projects
 
