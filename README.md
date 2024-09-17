@@ -1,25 +1,20 @@
 
 # 👋 Hi, I'm Armaan!
 
-Welcome to my GitHub! I'm a third-year Computer Science major at The University of British Columbia, specializing in Artificial Intelligence and Machine Learning. My passion lies in harnessing the power of programming to develop intelligent systems to contribute to fixing real-world problems. This repository is a showcase of my technical journey, highlighting my skills in software development and my exploration of AI-driven technologies. Dive in to see how I blend code, creativity, and data to solve problems and push the boundaries of what good lines of code can achieve.
+Welcome to my GitHub! I'm a fourth-year Computer Science major at The University of British Columbia, specializing in Artificial Intelligence and Machine Learning. This repository is a showcase of my technical journey, highlighting my skills in software development and my exploration of AI-driven technologies. Dive in to see how I blend code, creativity, and data to solve problems and push what good lines of code can achieve.
 
 ## 🚀 Technical Skills
 
 ### Programming Languages
-- **Proficient:** Python, JavaScript/TypeScript, Java, C/C++
-- **Familiar:** SQL (MySQL, Oracle), R, Bash, Assembly, LaTeX
+- Python, JavaScript/TypeScript, Java, C/C++, SQL (MySQL, Oracle), R, Bash, Assembly, LaTeX
 
 ### Web Development
-- **Frontend:** HTML5, CSS3, React, Tailwind
-- **Backend:** Node.js, Docker, Jenkins, Kubernetes
+- HTML5, CSS3, React, Tailwind, Node.js, Next,js, Docker, Jenkins, Kubernetes
 
 ### Tools & Environments
 - **Development:** VS Code, Eclipse, IntelliJ, GitHub, AWS, Azure
 - **Design & Editing:** Adobe Photoshop/After Effects/Premiere Pro, Sony Vegas Pro
 - **Data Analysis:** R-Studio, Python libraries (skLearn, PyTorch)
-
-### Testing Frameworks
-- JUnit, GDB, Mocha, Chai
 
 ## 🌟 Academic Projects
 
@@ -125,15 +120,6 @@ Welcome to my GitHub! I'm a third-year Computer Science major at The University 
 
 - Designed and developed a 1v1 table pong game using Python
 - Implemented functionality and score-tracking using Pygame.
-
-## Technical work Experience
-- **[Freelance Web Design](https://github.com/your-github-username/freelance-web-design):** Created HTML webpages and logos for a startup company.
-- **[Graph Theory Research](https://github.com/your-github-username/graph-theory-research):** Implemented and analysed fault-tolerant graph structures and dynamic algorithms as part of research at I.I.T Delhi under Prof. Keerti Choudhary.
-
-## 🛠️ Additional Contributions
-
-Explore my [GitHub repositories](https://github.com/sawhney07?tab=repositories) for a deeper dive into my other projects, including:
-- TBD
 
 ## 📫 Connect with Me
 
