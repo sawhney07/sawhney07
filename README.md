@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Armaan!
 
 Welcome to my GitHub! I'm a fourth-year Computer Science major at The University of British Columbia, specializing in Artificial Intelligence and Machine Learning. This repository is a showcase of my technical journey, highlighting my skills in software development and my exploration of AI-driven technologies. Dive in to see how I blend code, creativity, and data to solve problems and push what good lines of code can achieve.
@@ -13,146 +12,108 @@ Welcome to my GitHub! I'm a fourth-year Computer Science major at The University
 
 ### Tools & Environments
 - **Development:** VS Code, Eclipse, IntelliJ, GitHub, AWS, Azure
-- **Design & Editing:** Adobe Photoshop/After Effects/Premiere Pro, Sony Vegas Pro
+- **Design & Editing:** Adobe Photoshop/After Effects/Premiere Pro, Sony Vegas Pro, OpenGL
 - **Data Analysis:** R-Studio, Python libraries (skLearn, PyTorch)
 
 ## 🌟 Academic Projects
 
+### [JustParry: Street Fighter Multiplayer Game](https://github.com/your-github-username/insightubc-data-engine)
+**Technologies:** C++, OpenGL, ECS  
+**Role:** Project Lead  
+*Sept 2024 - Present*
+
+- Leading a team of 5 to develop a multiplayer game using ECS architecture.
+- Coordinating Agile sprints, using Git for version control, and ensuring 60 FPS gameplay.
+- Focusing on efficient resource management and real-time rendering.
+
 ### [InsightUBC Data Engine](https://github.com/your-github-username/insightubc-data-engine)
 **Technologies:** JavaScript, TypeScript, JSON, Mocha, Node.js, yarn  
 **Role:** Project Lead  
-*January 2024 - April 2024*
+*Jan 2024 - Apr 2024*
 
-- Developed a RESTful API for a data query engine using TypeScript and Express that parses JSON course data.
-- Created a front-end UI using React and CSS3 for data visualization through charts for course insights.
-- Integrated white-box and black-box testing to ensure test accuracy and edge-case mutant detection using Mocha and Chai libraries.
-- Collaborated with teammates using Git to document changes and attended weekly scrum meetings for continuous integration.
-
+- Built a RESTful API for querying JSON course data and visualized insights with React.
+- Added comprehensive testing using Mocha and Chai for edge-case coverage.
+- Collaborated in scrums, using Git for seamless version control.
 
 ### [Basketball League Database](https://github.com/your-github-username/basketball-league-db)
 **Technologies:** Java, JFrame, MySQL, JDBC, Oracle  
 **Role:** Project Lead  
-*October 2023 - December 2023*
+*Oct 2023 - Dec 2023*
 
-- Directed a team to create a full-stack application using Java and JFrame for managing basketball league data.
-- Focused on data security by implementing stringent input sanitization and SQL injection prevention.
-- Connected and queried databases in real-time using JDBC and Oracle, ensuring data integrity and optimal performance.
-- Applied database normalization techniques to enhance query efficiency.
+- Developed a Java-based app for managing basketball league data with real-time database connectivity.
+- Enhanced query performance through normalization and SQL injection prevention.
 
 ### [Email Spam Classifier with Naïve Bayes](https://github.com/your-github-username/basketball-league-db)
-**Technologies:** Python, Naïve Bayes, scikit-learn
+**Technologies:** Python, Naïve Bayes, scikit-learn  
+*Feb 2024 – Apr 2024*
 
-*February 2024 – April 2024*
-
-- Implemented a Naïve Bayes classifier from scratch for text classification using a dataset with features such as email content indicators.
-- Computed prior and conditional probabilities for classifying email as "spam" or "not spam" based on feature presence.
-- Evaluated the model’s performance on the newsgroups dataset, achieving optimal results through hyper-parameter tuning.
+- Built a Naïve Bayes classifier for email spam detection using prior and conditional probabilities.
+- Tuned hyperparameters for improved performance on the newsgroups dataset.
 
 ## 🌟 Personal Projects
 
-### [Portfolio Website](https://github.com/sawhney07/portfolio-v1)
-**Technologies:** HTML, JavaScript, React, Tailwind CSS, GitHub Pages   
-*Aug 2024 – Present*
+### [Febella Design Company Website](https://febelladesign.com)
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Vercel  
+*Nov 2024 – Present*
 
-- Developed a responsive and visually appealing portfolio website using React and Tailwind CSS.
-- Showcases my skills, projects, and professional journey with an intuitive and engaging user interface.
-- Implemented smooth navigation and dynamic content loading to enhance user experience.
-- Utilized Tailwind CSS for efficient and customizable styling, and deployed the website using GitHub Pages.
+- Created a responsive website showcasing garment consultancy services.
+- Deployed on Vercel with features for connecting international buyers and suppliers.
 
-### [WeatherAPI App](https://github.com/sawhney07/weather-API-JS)			
-**Technologies:** JavaScript, React, CSS, OpenWeatherAPI
+### [Spotify Stats Tracker](https://github.com/sawhney07/spotify-stats-tracker)
+**Technologies:** React, TypeScript, Tailwind CSS, Spotify API, Vercel  
+*Oct 2024*
 
+- Built an app displaying personalized Spotify stats like top artists and songs.
+- Integrated Spotify API for secure authentication and real-time data retrieval.
+
+### [WeatherAPI App](https://github.com/sawhney07/weather-API-JS)
+**Technologies:** JavaScript, React, CSS, OpenWeatherAPI  
 *Sept 2024*
 
-- Created a weather app that lets users search for weather data by city, displaying temperature, humidity, wind speed, and weather conditions.
-- Integrated OpenWeatherAPI to provide real-time weather details with dynamic icons/images for conditions like rain or clouds.
-- Built with React and Vite for a fast & responsive modern-looking UI, ensuring smooth performance across different devices.
+- Built a weather app showing real-time data like temperature and humidity using OpenWeatherAPI.
+- Designed a responsive UI with React and Vite for smooth cross-device performance.
 
-### [QR Code Generator](https://github.com/sawhney07/qr-code-gen)			
-**Technologies:** TypeScript, React, CSS, qrcode.react
-
+### [QR Code Generator](https://github.com/sawhney07/qr-code-gen)
+**Technologies:** TypeScript, React, CSS, qrcode.react  
 *Aug 2024*
 
-- Developed a QR code generator that allows users to create QR codes for URLs, text, and other data types.
-- Utilized React.js with TypeScript for dynamic functionality and qrcode.react library for efficient QR code generation.
-
+- Developed a QR code generator for text and URLs using React.js and the qrcode.react library.
 
 ### [Wall Engine](https://github.com/sawhney07/wallengine_v1)
-**Technologies:** Python, CustomTkinter, OpenWeather API
-
+**Technologies:** Python, CustomTkinter, OpenWeather API  
 *Feb 2024*
 
-- Developed an interactive screensaver with infinite graphical video playback in full-screen mode using CustomTkinter.
-- Integrated real-time clock, date, and live weather information from OpenWeatherAPI to enhance user experience.
-
+- Created an interactive screensaver with real-time clock, date, and weather info using CustomTkinter.
 
 ### [Image Search Engine](https://github.com/sawhney07/image_search_engine_JS)
-**Technologies:** JavaScript, HTML, CSS, Unsplash API
-
+**Technologies:** JavaScript, HTML, CSS, Unsplash API  
 *Jul 2024*
 
-- Designed and built an image search engine that retrieves images based on user queries using the Unsplash API.
-- Developed a responsive, user-friendly interface with HTML, JavaScript, and CSS for seamless functionality and intuitive design.
+- Built an image search engine fetching results from the Unsplash API with a user-friendly interface.
 
-
-### [Iphone styled Calculator](https://github.com/sawhney07/iphone_calculator_python)
-**Technologies:** Python
-
+### [Iphone Styled Calculator](https://github.com/sawhney07/iphone_calculator_python)
+**Technologies:** Python  
 *Jul 2024*
 
-- Designed and developed a Python calculator app replicating the style and functionality of the iPhone calculator.
-- Utilized CustomTkinter to create a visually appealing, responsive interface for enhanced user interaction.
-
+- Designed a Python app replicating iPhone calculator features using CustomTkinter.
 
 ### [To-Do List](https://github.com/sawhney07/todo_list_css)
-**Technologies:** JavaScript, HTML5, CSS
-
+**Technologies:** JavaScript, HTML5, CSS  
 *May 2024*
 
-- Designed and developed a website for a To-do List application
-- Implemented sytling using CSS
-- Implemented functionality and cookie caching to store list items using JavaScript.
+- Built a To-Do List app with CSS styling and JavaScript for functionality and cookie-based storage.
 
 ### [Table Pong](https://github.com/sawhney07/tablePong)
-**Technologies:** Python
-
+**Technologies:** Python  
 *May 2024*
 
-- Designed and developed a 1v1 table pong game using Python
-- Implemented functionality and score-tracking using Pygame.
+- Developed a 1v1 Pong game using Pygame with score tracking.
 
 ## 📫 Connect with Me
 
-- **Email:** sawhney7@student.ubc.ca
+- **Email:** sawhney7@student.ubc.ca  
 - **LinkedIn:** [in/sawhney07](https://www.linkedin.com/in/sawhney07/)
 
 ---
 
 *Thanks for visiting my GitHub profile! I'm always excited to connect with fellow developers and explore new opportunities.*
-
-
-
-
-
-
-
-<!--
-**sawhney07/sawhney07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-<h2>📺 📈 GitHub stats</h2>
-
-![sawhney07 github stats](https://github-readme-stats.vercel.app/api?username=sawhney07&show_icons=true&hide_border=true)
--->
