@@ -15,9 +15,9 @@ Welcome to my GitHub! I'm a fourth-year Computer Science major at The University
 - **Design & Editing:** Adobe Photoshop/After Effects/Premiere Pro, Sony Vegas Pro, OpenGL
 - **Data Analysis:** R-Studio, Python libraries (skLearn, PyTorch)
 
-## 🌟 Academic Projects
+## 🌟 Personal Projects
 
-### [JustParry: Street Fighter Multiplayer Game](https://github.com/your-github-username/insightubc-data-engine)
+### [JustParry: Street Fighter Multiplayer Game](https://github.com/sawhney07/JustParry)
 **Technologies:** C++, OpenGL, ECS  
 **Role:** Project Lead  
 *Sept 2024 - Present*
@@ -26,31 +26,6 @@ Welcome to my GitHub! I'm a fourth-year Computer Science major at The University
 - Coordinating Agile sprints, using Git for version control, and ensuring 60 FPS gameplay.
 - Focusing on efficient resource management and real-time rendering.
 
-### [InsightUBC Data Engine](https://github.com/your-github-username/insightubc-data-engine)
-**Technologies:** JavaScript, TypeScript, JSON, Mocha, Node.js, yarn  
-**Role:** Project Lead  
-*Jan 2024 - Apr 2024*
-
-- Built a RESTful API for querying JSON course data and visualized insights with React.
-- Added comprehensive testing using Mocha and Chai for edge-case coverage.
-- Collaborated in scrums, using Git for seamless version control.
-
-### [Basketball League Database](https://github.com/your-github-username/basketball-league-db)
-**Technologies:** Java, JFrame, MySQL, JDBC, Oracle  
-**Role:** Project Lead  
-*Oct 2023 - Dec 2023*
-
-- Developed a Java-based app for managing basketball league data with real-time database connectivity.
-- Enhanced query performance through normalization and SQL injection prevention.
-
-### [Email Spam Classifier with Naïve Bayes](https://github.com/your-github-username/basketball-league-db)
-**Technologies:** Python, Naïve Bayes, scikit-learn  
-*Feb 2024 – Apr 2024*
-
-- Built a Naïve Bayes classifier for email spam detection using prior and conditional probabilities.
-- Tuned hyperparameters for improved performance on the newsgroups dataset.
-
-## 🌟 Personal Projects
 
 ### [Febella Design Company Website](https://febelladesign.com)
 **Technologies:** Next.js, React, TypeScript, Tailwind CSS, Vercel  
@@ -108,6 +83,32 @@ Welcome to my GitHub! I'm a fourth-year Computer Science major at The University
 *May 2024*
 
 - Developed a 1v1 Pong game using Pygame with score tracking.
+
+## 🌟 Academic Projects
+
+### [InsightUBC Data Engine](https://github.com/sawhney07/insightubc-data-engine)
+**Technologies:** JavaScript, TypeScript, JSON, Mocha, Node.js, yarn  
+**Role:** Project Lead  
+*Jan 2024 - Apr 2024*
+
+- Built a RESTful API for querying JSON course data and visualized insights with React.
+- Added comprehensive testing using Mocha and Chai for edge-case coverage.
+- Collaborated in scrums, using Git for seamless version control.
+
+### [Basketball League Database](https://github.com/sawhney7/basketball-league-db)
+**Technologies:** Java, JFrame, MySQL, JDBC, Oracle  
+**Role:** Project Lead  
+*Oct 2023 - Dec 2023*
+
+- Developed a Java-based app for managing basketball league data with real-time database connectivity.
+- Enhanced query performance through normalization and SQL injection prevention.
+
+### [Email Spam Classifier with Naïve Bayes](https://github.com/your-github-username/basketball-league-db)
+**Technologies:** Python, Naïve Bayes, scikit-learn  
+*Feb 2024 – Apr 2024*
+
+- Built a Naïve Bayes classifier for email spam detection using prior and conditional probabilities.
+- Tuned hyperparameters for improved performance on the newsgroups dataset.
 
 ## 📫 Connect with Me
 
