@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a fourth-year Computer Science major at The University
 - Python, JavaScript/TypeScript, Java, C/C++, SQL (MySQL, Oracle), R, Bash, Assembly, LaTeX
 
 ### Web Development
-- HTML5, CSS3, React, Tailwind, Node.js, Next,js, Docker, Jenkins, Kubernetes
+- HTML5, CSS3, React, Tailwind, Node.js, Next,js, Docker, Jenkins, Kubernetes, Firebase, Vercel
 
 ### Tools & Environments
 - **Development:** VS Code, Eclipse, IntelliJ, GitHub, AWS, Azure
