@@ -48,26 +48,6 @@ I'm a fifth-year Computer Science major, at The University of British Columbia, 
 - Created a responsive website showcasing garment consultancy services.
 - Deployed on Vercel with features for connecting international buyers and suppliers.
 
-## 🌟 Other Projects
-
-### [Spotify Stats Tracker](https://github.com/sawhney07/spotify-stats-tracker)
-**Technologies:** React, TypeScript, Tailwind CSS, Spotify API, Vercel  
-
-### [WeatherAPI App](https://github.com/sawhney07/weather-API-JS)
-**Technologies:** JavaScript, React, CSS, OpenWeatherAPI  
-
-### [QR Code Generator](https://github.com/sawhney07/qr-code-gen)
-**Technologies:** TypeScript, React, CSS, qrcode.react  
-
-### [Wall Engine](https://github.com/sawhney07/wallengine_v1)
-**Technologies:** Python, CustomTkinter, OpenWeather API  
-
-### [Image Search Engine](https://github.com/sawhney07/image_search_engine_JS)
-**Technologies:** JavaScript, HTML, CSS, Unsplash API  
-
-### [Table Pong](https://github.com/sawhney07/tablePong)
-**Technologies:** Python  
-
 
 ## 📫 Contact
 
