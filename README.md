@@ -34,7 +34,7 @@ I'm a fifth-year Computer Science major, at The University of British Columbia, 
 - Coordinating Agile sprints, using Git for version control, and ensuring 60 FPS gameplay.
 - Focusing on efficient resource management and real-time rendering.
 
-### [InsightUBC Data Engine](https://github.com/sawhney07/insightubc-data-engine)
+### [InsightUBC Data Engine (Private)]()
 **Technologies:** JavaScript, TypeScript, JSON, Mocha, Node.js, yarn  
 **Role:** Project Lead  
 
@@ -48,11 +48,6 @@ I'm a fifth-year Computer Science major, at The University of British Columbia, 
 - Created a responsive website showcasing garment consultancy services.
 - Deployed on Vercel with features for connecting international buyers and suppliers.
 
-### [Email Spam Classifier with Naïve Bayes](https://github.com/your-github-username/basketball-league-db)
-**Technologies:** Python, Naïve Bayes, scikit-learn  
-
-- Built a Naïve Bayes classifier for email spam detection using prior and conditional probabilities.
-  
 ## 🌟 Other Projects
 
 ### [Spotify Stats Tracker](https://github.com/sawhney07/spotify-stats-tracker)
