@@ -18,13 +18,18 @@ I'm a fifth-year Computer Science major, at The University of British Columbia, 
 ## 🌟 Highlighted Projects
 
 ### [Faculty360: UBC Faculty CV Reporting & Management System](https://github.com/fomdsadmin/FacultyCV)
-**Technologies:** AWS Full Stack Services (Lambda, Appsync, Cognito, etc.), Python, TypeScript/JavaScript, PostgreSQL, MySQL, React
+**Technologies:** AWS Full Stack Services (Lambda, Appsync, Cognito, etc.), Python, TypeScript/JavaScript, PostgreSQL, MySQL, React  
 **Role:** Full Stack Developer
 
 - Building a web-based platform for managing and displaying faculty CVs across departments.
-- Implementing Django backend with RESTful APIs and PostgreSQL for structured data storage.
-- Designing responsive user interfaces and dynamic form handling using JavaScript and Bootstrap.
 - Collaborating with stakeholders to support UBC’s Faculty of Medicine Digital Solutions team.
+
+### [Febella Design Company Website](https://febelladesign.com)
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Vercel  
+**Role:** Full Stack Developer 
+
+- Created a responsive website showcasing garment consultancy services.
+- Deployed on Vercel with features for connecting international buyers and suppliers.
 
 ### [JustParry: Street Fighter Multiplayer Game](https://github.com/sawhney07/JustParry)
 **Technologies:** C++, OpenGL, ECS  
@@ -42,12 +47,6 @@ I'm a fifth-year Computer Science major, at The University of British Columbia, 
 - Added comprehensive testing using Mocha and Chai for edge-case coverage.
 - Collaborated in scrums, using Git for seamless version control.
   
-### [Febella Design Company Website](https://febelladesign.com)
-**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Vercel  
-
-- Created a responsive website showcasing garment consultancy services.
-- Deployed on Vercel with features for connecting international buyers and suppliers.
-
 
 ## 📫 Contact
 
