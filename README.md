@@ -5,13 +5,13 @@ I'm a fifth-year Computer Science major, at The University of British Columbia, 
 ## 🚀 Technical Skills
 
 ### Programming Languages
-- Python, JavaScript/TypeScript, Java, C/C++, SQL (MySQL, Oracle), R, Bash, Assembly, LaTeX
+- Python, JavaScript, TypeScript, Java, C/C++, SQL, PostGres
 
 ### Web Development
-- HTML5, CSS3, React, Tailwind, Node.js, Next,js, Docker, Jenkins, Kubernetes, Firebase, Vercel
+- HTML5, CSS3, React, Tailwind, Next,js, Docker, AWS Full-stack (Lambda, S3, CloudForm, Amplify, Aurora, etc.) 
 
 ### Tools & Environments
-- **Development:** VS Code, Eclipse, IntelliJ, GitHub, AWS, Azure
+- **Development:** VS Code, Eclipse, IntelliJ, GitHub, Jira, Confluence
 - **Design & Editing:** Adobe Photoshop/After Effects/Premiere Pro, Sony Vegas Pro, OpenGL
 - **Data Analysis:** R-Studio, Python libraries (skLearn, PyTorch)
 
